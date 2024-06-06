@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57302\\source\\repos\\HolaMundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EBFAF2B-846C-43B2-B17E-222082F56B3C}|HolaMundo\\HolaMundo.csproj|c:\\users\\57302\\source\\repos\\holamundo\\holamundo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EBFAF2B-846C-43B2-B17E-222082F56B3C}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\57302\\source\\repos\\HolaMundo\\HolaMundo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HolaMundo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\57302\\source\\repos\\HolaMundo\\HolaMundo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HolaMundo\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:35:04.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
